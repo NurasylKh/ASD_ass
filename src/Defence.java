@@ -1,5 +1,5 @@
 //given sequence of numbers you have to find accurance of specific number
-/*
+/*1st method
 public class Defence {
     public  static void main(String[] args){
         int [] array = {1,2,3,4,5,6,7,8,9,10};
@@ -17,7 +17,7 @@ public class Defence {
 }
 */
 
-
+/*2nd method
 public class Defence{
     public static void main(String[] args){
         int [] array = {1,2,3,4,5,6,7,8,9,10};
@@ -37,4 +37,4 @@ public class Defence{
     }
 
 }
-
+*/
